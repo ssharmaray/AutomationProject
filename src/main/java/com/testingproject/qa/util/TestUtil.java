@@ -15,9 +15,9 @@ import org.testng.annotations.DataProvider;
 import com.testingproject.qa.base.TestBase;
 
 
-
 public class TestUtil extends TestBase  {
 
+	//this is the Utilities class
 	public TestUtil() throws FileNotFoundException {
 		super();
 		

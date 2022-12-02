@@ -4,16 +4,16 @@
            failures="1"
            errors="0"
            skipped="0"
-           time="0.615">
+           time="0.633">
   <properties />
-            <testcase name="homePageTitleTest" time="0.068" classname="com.testingproject.qa.testcases.AutomationPageTest">
+            <testcase name="homePageTitleTest" time="0.045" classname="com.testingproject.qa.testcases.AutomationPageTest">
                 <failure type="java.lang.AssertionError"
                   message="null"
               >
 <![CDATA[java.lang.AssertionError: null
   org.testng.Assert.fail(Assert.java:110)
   org.testng.Assert.fail(Assert.java:115)
-  com.testingproject.qa.testcases.AutomationPageTest.homePageTitleTest(AutomationPageTest.java:35)
+  com.testingproject.qa.testcases.AutomationPageTest.homePageTitleTest(AutomationPageTest.java:38)
   java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
   java.base/java.lang.reflect.Method.invoke(Method.java:578)
   org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:135)
@@ -50,6 +50,6 @@
           </testcase>
   
   
-            <testcase name="Submitclick" time="0.547" classname="com.testingproject.qa.testcases.AutomationPageTest" />
+            <testcase name="Submitclick" time="0.588" classname="com.testingproject.qa.testcases.AutomationPageTest" />
       
 </testsuite>
