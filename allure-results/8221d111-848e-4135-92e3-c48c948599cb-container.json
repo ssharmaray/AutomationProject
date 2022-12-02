@@ -1,0 +1,1 @@
+{"uuid":"8221d111-848e-4135-92e3-c48c948599cb","name":"Automation Project1","children":["a350dd66-0bca-45f5-9cc1-0f6437e35565"],"befores":[{"name":"initialization","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1669901051523,"stop":1669901051528}],"afters":[],"start":1669901051496,"stop":1669901053762}

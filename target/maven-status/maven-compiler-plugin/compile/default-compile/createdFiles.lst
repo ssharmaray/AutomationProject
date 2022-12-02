@@ -1,0 +1,6 @@
+com\testingproject\qa\util\ExtentManager.class
+com\testingproject\qa\util\TestUtil.class
+com\testingproject\qa\listeners\CustomListeners.class
+com\testingproject\qa\pages\automationPage.class
+com\testingproject\qa\util\ExcelReader_Mine.class
+com\testingproject\qa\base\TestBase.class

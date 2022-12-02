@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Automation Project1]" guice-stage="DEVELOPMENT" verbose="0">
+  <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+    <listener class-name="com.testingproject.qa.listeners.CustomListeners"/>
+  </listeners>
+  <test thread-count="5" name="Automation Registration Page(failed)" verbose="0">
+    <classes>
+      <class name="com.testingproject.qa.testcases.AutomationPageTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="homePageTitleTest"/>
+          <include name="tearDown"/>
+          <include name="initialization"/>
+        </methods>
+      </class> <!-- com.testingproject.qa.testcases.AutomationPageTest -->
+    </classes>
+  </test> <!-- Automation Registration Page(failed) -->
+</suite> <!-- Failed suite [Automation Project1] -->
