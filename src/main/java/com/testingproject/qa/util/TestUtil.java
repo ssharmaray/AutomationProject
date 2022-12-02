@@ -17,7 +17,6 @@ import com.testingproject.qa.base.TestBase;
 
 public class TestUtil extends TestBase  {
 
-	//Utilities class
 	public TestUtil() throws FileNotFoundException {
 		super();
 		
