@@ -48,7 +48,7 @@ public class TestBase {
 	
 	public TestBase() throws FileNotFoundException {
 		
-		//constructor test 101 erertert
+		//Atempting merging - changes done - 12/08/2022 - 3rd attempt push from local to Github Project1
 		properties = new Properties();
 		
 		try {
