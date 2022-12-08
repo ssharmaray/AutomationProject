@@ -26,6 +26,8 @@ public class AutomationPageTest extends TestBase {
 	//Atempting merging - changes done - 12/08/2022 - 9th attempt push only this file from local to Github Project1
 	//Atempting merging - changes done - 12/08/2022 - 10th attempt push only this file from local to Github Project1
 	//Atempting merging - changes done - 12/08/2022 - 11th attempt push only this file from local to Github Project1
+	//Atempting merging - changes done - 12/08/2022 - 12th attempt push only this file from local to Github Project1
+	//Atempting merging - changes done - 12/08/2022 - 13th attempt push only this file from local to Github Project1
 
 	automationPage automationPage;
 	
