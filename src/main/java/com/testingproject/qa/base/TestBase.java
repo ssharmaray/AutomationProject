@@ -48,6 +48,7 @@ public class TestBase {
 	
 	public TestBase() throws FileNotFoundException {
 		
+		//constructor test 101 erertert
 		properties = new Properties();
 		
 		try {

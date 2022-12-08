@@ -15,7 +15,7 @@ import com.testingproject.qa.util.TestUtil;
 public class AutomationPageTest extends TestBase {
 	
 	//Test cases for the Automation Page Registration Test
-	//Atempting merging
+	//Atempting merging - changes done - 12/08/2022 - 1st attempt push from local to Github
 
 	automationPage automationPage;
 	

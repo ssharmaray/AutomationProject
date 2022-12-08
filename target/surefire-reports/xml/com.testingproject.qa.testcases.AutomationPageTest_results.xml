@@ -4,9 +4,9 @@
            failures="1"
            errors="0"
            skipped="0"
-           time="0.633">
+           time="0.940">
   <properties />
-            <testcase name="homePageTitleTest" time="0.045" classname="com.testingproject.qa.testcases.AutomationPageTest">
+            <testcase name="homePageTitleTest" time="0.058" classname="com.testingproject.qa.testcases.AutomationPageTest">
                 <failure type="java.lang.AssertionError"
                   message="null"
               >
@@ -50,6 +50,6 @@
           </testcase>
   
   
-            <testcase name="Submitclick" time="0.588" classname="com.testingproject.qa.testcases.AutomationPageTest" />
+            <testcase name="Submitclick" time="0.882" classname="com.testingproject.qa.testcases.AutomationPageTest" />
       
 </testsuite>
